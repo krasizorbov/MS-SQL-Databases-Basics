@@ -8,3 +8,4 @@ September 30 2019: Added SoftUni Exercise: Table Relations
 October 04 2019: Added SoftUni Exercise: Joins Subqueries And Indices
 October 08 2019: Added SoftUni Exercise: Functions, Procedures And Triggers
 October 13 2019: Added SoftUni Demo Exam
+October 17 2019: Added SoftUni Exam - From 16 April 2019
